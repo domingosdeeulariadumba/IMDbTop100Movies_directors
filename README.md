@@ -14,7 +14,7 @@ GOAL
 
 
 APPROACH
-![IMDbTop100Directors approach](https://github.com/domingosdeeulariadumba/IMDbTop100Movies_directors/assets/110714056/39add5b1-7f10-4398-ac01-5ccb15600c90)
+![IMDbTop100Directors approach](https://github.com/domingosdeeulariadumba/IMDbTop100Movies_directors/assets/110714056/2410beb9-970a-4b81-bca8-746baf9f6fd1)
 
 
 TOOLS
